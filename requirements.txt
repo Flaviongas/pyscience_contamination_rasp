@@ -1,0 +1,5 @@
+adafruit-circuitpython-dht  
+adafruit-blinka  
+smbus2  
+bme280  
+RPi.GPIO  
